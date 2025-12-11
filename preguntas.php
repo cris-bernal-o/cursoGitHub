@@ -1,0 +1,1 @@
+que podemos poner aqui, uso un archivo php como blog de notas porque es para lo que sirve
