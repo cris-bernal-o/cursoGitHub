@@ -6,8 +6,13 @@
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
 
     <h4>modificacion en la rama main</h4>
     
+=======
+    <h1>una modificacion
+    </h1>
+>>>>>>> actualizando
 </body>
 </html>
